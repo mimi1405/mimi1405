@@ -4,11 +4,11 @@
 -   good books, the gym and cars 
 -   
 - 🌱 I’m currently learning ...
--  React.js / C# WPF / Java FX / F#
+-  C# WPF / F# / js as always
 -
 - 📫 How to reach me ...
 -   --On my website: www.maksim-momcilovic.ch or www.maksim-momcilovic.com 🖥️💻📱
--   --or: maksim.momcilovic@icloud.com📫
+-   --also: maksim.momcilovic@icloud.com📫
 -
 -   --Hope there is a project you like:)
 
