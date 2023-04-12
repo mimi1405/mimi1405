@@ -4,7 +4,7 @@
 -   good books, the gym and cars 
 -   
 - 🌱 I’m currently learning ...
--  C# WPF / F# / js as always / react native
+-  Rust and Typescript
 -
 - 📫 How to reach me ...
 -   --On my website: www.maksim-momcilovic.ch or www.maksim-momcilovic.com 🖥️💻📱
