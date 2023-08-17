@@ -4,7 +4,7 @@
 -   good books, the gym and cars 
 -   
 - 🌱 I’m currently learning ...
--  Rust and Typescript
+-  Angular | JAVA (11/1.8) | Maven
 -
 - 📫 How to reach me ...
 -   --On my website: www.maksim-momcilovic.ch or www.maksim-momcilovic.com 🖥️💻📱
