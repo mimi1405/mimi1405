@@ -4,11 +4,10 @@
 -   good books, the gym and cars 
 -   
 - 🌱 I’m currently learning ...
--  Angular | JAVA (11/1.8) | Maven
+-  SolidJS | JAVA 21
 -
 - 📫 How to reach me ...
--   --On my website: www.maksim-momcilovic.ch or www.maksim-momcilovic.com 🖥️💻📱
--   --also: maksim.momcilovic@icloud.com📫
+-   maksim.momcilovic@icloud.com📫
 -
 -   --Hope there is a project you like:)
 
